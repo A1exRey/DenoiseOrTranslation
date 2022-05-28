@@ -19,3 +19,8 @@ This approach is ranked in the 4st place in the official run (automatic) and 2nd
 | FRC CSC RAS          | 0.945 | 0.855 | 0.967 | 0.784 | 0.571 |
 | **Our model**       | 0.948 | 0.819 | 0.911 | 0.709 | 0.573 |
 | Human References     | 0.846 | 0.716 | 0.783 | 0.494 | 0.773 |
+
+### Sources
+DisCO transformer https://github.com/jungokasai/deep-shallow
+NAST transformer https://github.com/thu-coai/NAST
+APE transformer https://github.com/zerocstaker/constrained_ape
